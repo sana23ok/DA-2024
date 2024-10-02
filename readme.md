@@ -9,27 +9,27 @@
 Досліджено структуру завантажених даних, виправлено формати, знайдено та заповнено пропуски, виявлено викиди 
 та некоректні значення, побудовано прості візуалізації.
 
-### [Python2_Exploratory_Data_Analysis_Hordych.ipynbn](Python2_Exploratory_Data_Analysis_Hordych.ipynb)
+### [Python2_Exploratory_Data_Analysis](Python2_Exploratory_Data_Analysis_Hordych.ipynb)
 Виконано візуалізацію даних, проведено описовий аналіз, групування, знайдено зв'язки між ознаками, 
 перевірено гіпотези про значущість коефіцієнта кореляції та закон розподілу, виконано дисперсійний аналіз.
 
-### [Python3_Model_Development_Hordych.ipynb](Python3_Model_Development_Hordych.ipynb)
+### [Python3_Model_Development](Python3_Model_Development_Hordych.ipynb)
 Побудовано різновиди регресійних моделей, оцінено їх якість візуально та числовими мірами, 
 виконано прогнозування відгуку.
 
-### [Python4_Model_Evaluation_and_Refinement_Hordych.ipynb](Python4_Model_Evaluation_and_Refinement_Hordych.ipynb)
+### [Python4_Model_Evaluation_and_Refinement](Python4_Model_Evaluation_and_Refinement_Hordych.ipynb)
 Розділено дані на навчальну та тестову вибірки, використано перехресну перевірку для оцінки якості моделей, 
 обрано оптимальну складність для уникнення перенавчання, вдосконалено моделі шляхом підбору параметрів.
 
-### [Python5_Model_Clastering_Hordych.ipynb](Python5_Model_Clastering_Hordych.ipynb)
+### [Python5_Model_Clastering](Python5_Model_Clastering_Hordych.ipynb)
 Використано прості моделі для кластеризації та класифікації, проведено оцінку якості моделей через 
 перехресну перевірку, обрано оптимальну складність моделей.
 
-### [Python6_Time_Series_Forecasting_Hordych.ipynb](Python6_Time_Series_Forecasting_Hordych.ipynb)
+### [Python6_Time_Series_Forecasting](Python6_Time_Series_Forecasting_Hordych.ipynb)
 Побудовано та проаналізовано часові ряди для статистики захворювань на Covid в двох сусідніх країнах, 
 а також для курсу гривня/долар або гривня/євро за останні 3 роки.
 
-### [Python7_Text_Analysis_Hordych.ipynb](Python7_Text_Analysis_Hordych.ipynb)
+### [Python7_Text_Analysis](Python7_Text_Analysis_Hordych.ipynb)
 - Проведено очищення текстових даних, токенізацію та лематизацію, створено Bag of Words, розраховано метрику TF-IDF для найчастіших слів.
 - Виконано сантимент аналіз для даних та категоризацію тексту методом LDA.
 - Проведено попередню обробку творів Михайла Коцюбинського та Михайла Старицького, побудовано хмари слів для обох авторів.
